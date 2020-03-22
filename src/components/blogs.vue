@@ -32,7 +32,7 @@
         margin: 20px auto;
         display: block;
         width: 50%;
-        min-width: 800px;
+        min-width: 600px;
         height: 100%;
         padding:20px;
         border-radius: 2px 2px 2px 2px;
@@ -54,6 +54,7 @@
     #user_icon{
         width: 100%;
         height: 40px;
+        cursor: default;
     }
 
     #user_icon img{
@@ -103,6 +104,7 @@
     #blog-title a:hover{
         text-decoration: underline;
         color: #6B6B6B !important ;
+        cursor: pointer;
     }
 
 
